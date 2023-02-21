@@ -1,0 +1,21 @@
+{
+  "name": "simple-light-blue",
+  "displayName": "Simple Light Blue",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "simple-light-blue",
+        "uiTheme": "vs",
+        "path": "./themes/simple-light-blue-color-theme.json"
+      }
+    ]
+  }
+}
