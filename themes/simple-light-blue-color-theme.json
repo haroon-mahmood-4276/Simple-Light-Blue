@@ -1,6 +1,8 @@
 {
+    "$schema": "vscode://schemas/color-theme",
     "name": "simple-light-blue",
     "colors": {
+
         "activityBar.activeBackground": "#e3edff",
         "activityBar.activeBorder": "#3369d6",
         "activityBar.background": "#fff",

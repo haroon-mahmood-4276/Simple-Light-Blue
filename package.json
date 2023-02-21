@@ -1,21 +1,25 @@
 {
-  "name": "simple-light-blue",
-  "displayName": "Simple Light Blue",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.75.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "simple-light-blue",
-        "uiTheme": "vs",
-        "path": "./themes/simple-light-blue-color-theme.json"
-      }
-    ]
-  }
+    "name": "simple-light-blue",
+    "displayName": "Simple Light Blue",
+    "description": "",
+    "version": "0.0.1",
+    "author": {
+        "name": "Haroon Mahmood",
+        "email": "haroon.mahmood.4276@gmail.com",
+        "url": "https://github.com/haroon-mahmood-4276"
+    },
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "id": "simple-light-blue",
+            "label": "Simple Light Blue",
+            "uiTheme": "vs",
+            "path": "./themes/simple-light-blue-color-theme.json"
+        }]
+    }
 }
