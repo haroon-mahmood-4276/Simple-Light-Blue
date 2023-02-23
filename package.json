@@ -2,7 +2,17 @@
     "name": "simple-light-blue",
     "displayName": "Simple Light Blue",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.1",
+    "publisher": "HAROONMAHMOOD",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/haroon-mahmood-4276/Simple-Light-Blue"
+    },
+    "keywords": [
+        "simple",
+        "theme",
+        "blue"
+    ],
     "author": {
         "name": "Haroon Mahmood",
         "email": "haroon.mahmood.4276@gmail.com",
