@@ -7,7 +7,6 @@
         "activityBar.activeBorder": "#3369d6",
         "activityBar.background": "#fff",
         "activityBar.activeFocusBorder": "#3369d6",
-        "activityBar.dropBorder": "#3369d6",
         "activityBar.foreground": "#3369d6",
         "activityBar.inactiveForeground": "#1d4188",
         "activityBarBadge.background": "#3369d6",
@@ -24,8 +23,15 @@
 
         // "selection.background": "#3369d6",
 
-        "icon.foreground": "#3369d6",
+        // "icon.foreground": "#fff",
         "sash.hoverBorder": "#3369d6",
+
+        "editorGroupHeader.tabsBackground": "#3369d6",
+        "tab.activeBackground": "#fff",
+        "tab.activeForeground": "#3369d6",
+        "tab.inactiveBackground": "#3369d6",
+        "tab.inactiveForeground": "#fff",
+        "tab.border": "#ddd",
 
         "toolbar.hoverBackground": "#e3edff",
         // "toolbar.hoverOutline": "#3369d6",
@@ -42,11 +48,38 @@
 
         "progressBar.background": "#3369d6",
 
-        "scrollbarSlider.background": "#3369d6",
-        "scrollbarSlider.hoverBackground": "#4d81e9",
-        "scrollbarSlider.activeBackground": "#1d4188",
+        "input.border": "#3369d6",
 
-        
+        "scrollbarSlider.background": "#3369d67f",
+        "scrollbarSlider.hoverBackground": "#4d81e97f",
+        "scrollbarSlider.activeBackground": "#1d41887f",
+
+        "sideBar.background": "#fff",
+        "sideBarSectionHeader.background": "#3369d6",
+        "sideBarSectionHeader.foreground": "#fff",
+        "sideBarSectionHeader.border": "#3369d6",
+        "sideBySideEditor.horizontalBorder": "#3369d6",
+        "sideBySideEditor.verticalBorder": "#3369d6",
+
+        "statusBar.background": "#3369d6",
+        "statusBar.border": "#ddd",
+
+        "menu.border": "#3369d6",
+        "menubar.selectionBackground": "#fff",
+        "menubar.selectionForeground": "#3369d6",
+        "menu.separatorBackground": "#3369d6",
+        "menu.selectionBackground": "#3369d6",
+
+        "titleBar.activeBackground": "#3369d6",
+        "titleBar.activeForeground": "#fff",
+
+        "commandCenter.background": "#3369d6",
+        "commandCenter.foreground": "#fff",
+        "commandCenter.activeBackground": "#fff",
+
+        "notificationCenterHeader.background": "#3369d6",
+        "notificationCenterHeader.foreground": "#fff",
+
     },
     "tokenColors": [{
             "name": "Comments",
