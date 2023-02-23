@@ -2,7 +2,7 @@
     "name": "simple-light-blue",
     "displayName": "Simple Light Blue",
     "description": "",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "HAROONMAHMOOD",
     "repository": {
         "type": "git",
@@ -25,11 +25,13 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "id": "simple-light-blue",
-            "label": "Simple Light Blue",
-            "uiTheme": "vs",
-            "path": "./themes/simple-light-blue-color-theme.json"
-        }]
+        "themes": [
+            {
+                "id": "simple-light-blue",
+                "label": "Simple Light Blue",
+                "uiTheme": "vs",
+                "path": "./themes/simple-light-blue-color-theme.json"
+            }
+        ]
     }
 }
