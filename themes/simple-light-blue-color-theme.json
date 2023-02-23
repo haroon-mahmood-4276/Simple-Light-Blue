@@ -6,18 +6,46 @@
         "activityBar.activeBackground": "#e3edff",
         "activityBar.activeBorder": "#3369d6",
         "activityBar.background": "#fff",
-        // "activityBar.border": "#fff",
+        "activityBar.activeFocusBorder": "#3369d6",
         "activityBar.dropBorder": "#3369d6",
         "activityBar.foreground": "#3369d6",
         "activityBar.inactiveForeground": "#1d4188",
         "activityBarBadge.background": "#3369d6",
-        "activityBarBadge.foreground": "#ffffff",
-        // "contrastActiveBorder": "#3369d6",
-        // "contrastBorder": "#3369d6",
-        "activityBarItem.profilesBackground": "#ff0000",
-        "activityBarItem.profilesForeground": "#ff0000",
-        "activityBarItem.profilesHoverForeground": "#ff0000",
-        "focusBorder": "#3369d6"
+        "activityBarBadge.foreground": "#fff",
+
+        "contrastActiveBorder": "#3369d6",
+
+        "focusBorder": "#3369d6",
+        "foreground": "#000",
+        "disabledForeground": "#0000",
+
+        "editorWidget.border": "#3369d6",
+        "widget.shadow": "#3369d638",
+
+        // "selection.background": "#3369d6",
+
+        "icon.foreground": "#3369d6",
+        "sash.hoverBorder": "#3369d6",
+
+        "toolbar.hoverBackground": "#e3edff",
+        // "toolbar.hoverOutline": "#3369d6",
+
+        "button.background": "#3369d6",
+        "button.hoverBackground": "#1d4188",
+
+        "checkbox.border": "#3369d6",
+
+        "dropdown.border": "#3369d6",
+
+        "badge.background": "#3369d6",
+        "badge.foreground": "#fff",
+
+        "progressBar.background": "#3369d6",
+
+        "scrollbarSlider.background": "#3369d6",
+        "scrollbarSlider.hoverBackground": "#4d81e9",
+        "scrollbarSlider.activeBackground": "#1d4188",
+
         
     },
     "tokenColors": [{
